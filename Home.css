@@ -1,0 +1,394 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-color: #F9F9F6; */
+    font-size: 16px;
+}
+
+.main-background {
+    display: flex;
+    justify-content: center;
+    width: 114.6875rem;
+    max-width: 50%;
+    height: 31.25rem;
+    margin: 5.625rem auto;
+    padding: 1.25rem;
+    gap: 2.5rem;
+}
+
+
+.main-image2 {
+    margin-top: 4.375rem;
+}
+
+.main-image2 img {
+    width: 4.6875rem;
+    height: 2.0625rem;
+}
+
+.main-image2 h3 {
+    font-family: serif;
+    font-size: 1.0625rem;
+    text-align: left;
+    margin-top: 1.25rem;
+    color: #111111;
+}
+
+.main-image2 h2 {
+    font-size: 3.25rem;
+    text-align: left;
+    letter-spacing: normal;
+    color: #111111;
+    margin-top: 1.25rem;
+    width: 30.125rem;
+    font-family: sans-serif;
+}
+
+.main-image2 p {
+    font-size: 1rem;
+    font-family: sans-serif;
+    text-align: left;
+    letter-spacing: normal;
+    color: #333333;
+    margin-top: 2.0rem;
+}
+
+.main-image2 button {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #6a9739;
+    outline: none;
+    border: none;
+    padding: 0.8125rem 1.875rem;
+    color: white;
+    margin-top: 4.125rem;
+    border-radius: 0.3125rem;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.main-image2 button:hover {
+    background-color: #8bc34a;
+    cursor: pointer;
+}
+
+
+
+.benefit {
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0rem auto;
+    gap: 3.125rem;
+}
+
+.benefit-items {
+    margin: 10px;
+    width: 285px;
+    height: 122px;
+    background-color: #3a3a3a;
+    border-radius: 0.5rem;
+}
+
+
+
+.text-item {
+    margin-top: 1.875rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.625rem;
+    color: green;
+    background-color: #3a3a3a;
+    cursor: pointer;
+}
+
+.text-item h3 {
+    text-align: center;
+    color: white;
+    background-color: #3a3a3a;
+    font-size: 1.25rem;
+    font-family: serif;
+    text-align: left;
+}
+
+
+.benefit-items p {
+    background-color: #3a3a3a;
+    color: white;
+    font-size: 1rem;
+    margin-top: 0.625rem;
+    font-family: sans-serif;
+}
+
+.link-line {
+    text-decoration: none;
+}
+
+.whi {
+    background-color: white;
+    margin-top: 11.125rem;
+    width: 100%;
+    height: 68rem;
+}
+
+.selling-products {
+
+    text-align: center;
+    margin-top: 8.75rem;
+    font-size: 2.125rem;
+    color: black;
+    font-family: serif;
+    font-weight: 600;
+    background-color: white;
+}
+
+.leaf-pic {
+    text-align: center;
+    margin-top: 1.25rem;
+    background-color: white;
+
+}
+
+.ink {
+    text-decoration: none;
+}
+
+.image-api-data1 {
+    background-color: white;
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.25rem;
+    justify-content: center;
+    background-color: white;
+}
+
+.image-api-data1-design {
+    background-color: white;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+
+
+.p1 {
+    background-color: white;
+    font-size: 0.85rem;
+    color: #333333;
+    line-height: 1.105rem;
+}
+
+.p2 {
+    background-color: white;
+    font-size: 16px;
+    font-family: serif;
+    line-height: 1.3rem;
+}
+
+.p3 {
+    background-color: white;
+    color: #333333;
+    font-size: 13.712.px;
+    line-height: 1.105rem;
+}
+
+.p4 {
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    color: #333333;
+}
+
+.leaf-img2 {
+    text-align: center;
+    background-color: white;
+    height: 20px;
+}
+
+.leaf-img2 img {
+    background-color: white;
+    height: 40px;
+
+}
+
+.farm-fresh {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+    gap:10px;
+}
+
+.image-overlay  img{
+    position: relative;
+    width: 23.125rem;
+    height: 22.5rem;
+    background-position: right;
+}
+
+.overlay-all {
+    position: absolute;
+    top: 130rem;
+    background-color: white;
+}
+
+
+.overlay-all h2 {
+   font-size: 1.5rem;
+   background-color: white;
+   margin-left: 30px;
+   font-family: serif;
+   line-height: 1.95rem;
+
+}
+
+.overlay-all p {
+    text-align: justify;
+    margin-left: 1.875rem;
+    background-color: white;
+    margin-top: 0.3125rem;
+    color: #333333;
+}
+
+.overlay-all button{
+    margin-top: 2.25rem;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #6a9739;
+    outline: none;
+    border: none;
+    padding: 0.8125rem 0.875rem;
+    color: white;
+    margin-left: 1.875rem;
+    cursor: pointer;
+
+} 
+
+.arr {
+    color:white;
+    background-color: #6a9739;;
+    cursor: pointer;
+}
+
+.arr:hover {
+    color: white;
+    background-color: #8bc34a;
+    cursor: pointer;
+}
+
+
+.overlay-all button:hover {
+    background-color: #8bc34a;
+}
+
+.black-background-design {
+    margin-top: 8rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 12rem;
+    gap: 50rem;
+}
+
+.black-background-design h1 {
+    background-color: black;
+    color: white;
+    font-size: 34px;
+    font-family: serif;
+
+}
+
+.black-background-design button {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #6a9739;
+    outline: none;
+    border: none;
+    padding: 0.8125rem 0.875rem;
+    color: white;
+    cursor: pointer;
+}
+
+.black-background-design button:hover{
+    color:white;
+    background-color: #8bc34a;
+    cursor: pointer;
+}
+
+.reg-heading {
+    margin-top: 3rem;
+    font-size: 24px;
+    text-align: center;
+    font-family: serif;
+    color: black;
+    font-weight: 600;
+}
+
+.trending-products {
+    margin-top: 5rem;
+    background-color: white;
+}
+
+.trending-heading {
+    text-align: center;
+    margin-top: 5.625rem;
+    font-size: 2.125rem;
+    font-family: serif;
+    font-weight: 600;
+}
+
+.leaf-img3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25rem;
+}
+
+.opacity-image-design {
+    margin-top: 0rem;
+}
+
+.opacity-image {
+    background-color: white;
+}
+
+.opacity-image img {
+    background-color: white;
+    margin-top: 10rem;
+    height: 20rem;
+    opacity: 0.15;
+    position: relative;
+}
+
+
+.brand {
+   margin-top: 20px;
+
+}
+
+.brand-flex {
+    display: flex;
+    justify-content: center;
+    gap: 0.625rem;
+    text-align: center;
+}
+.brand-flex h1 {
+    margin-top: 2.3125rem;
+    text-align: center;
+    font-size: 1.25rem;
+    font-family: serif;
+
+}
+ 
+
+
+
+
+@media ( max-width : 768px) {
+    
+}
